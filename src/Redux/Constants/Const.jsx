@@ -1,0 +1,5 @@
+export const add= 'add'
+export const filter='filter'
+export const edit='edit'
+export const filterTaskCheck='filterTaskCheck'
+export const RESET_FILTER='RESET_FILTER'
